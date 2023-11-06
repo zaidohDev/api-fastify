@@ -1,3 +1,7 @@
+
+
+
+###
 GET http://localhost:3333/customers
 
 
@@ -9,3 +13,6 @@ Content-Type: application/json
   "name": "Luana",
   "email": "luh@test.com"
 }
+
+###
+DELETE  http://localhost:3333/customer?65484c4c737841b0acdeba16
